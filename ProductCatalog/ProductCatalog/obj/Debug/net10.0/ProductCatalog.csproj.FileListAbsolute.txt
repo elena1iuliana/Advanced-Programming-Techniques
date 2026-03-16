@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net10.0\ProductCatalog.exe
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net10.0\ProductCatalog.deps.json
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net10.0\ProductCatalog.runtimeconfig.json
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net10.0\ProductCatalog.dll
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\bin\Debug\net10.0\ProductCatalog.pdb
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ProductCatalog.dll
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\refint\ProductCatalog.dll
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ProductCatalog.pdb
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ProductCatalog.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ProductCatalog\ProductCatalog\obj\Debug\net10.0\ref\ProductCatalog.dll
