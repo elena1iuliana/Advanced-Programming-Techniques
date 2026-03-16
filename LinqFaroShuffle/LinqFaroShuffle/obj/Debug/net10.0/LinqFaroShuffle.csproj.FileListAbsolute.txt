@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\bin\Debug\net10.0\LinqFaroShuffle.exe
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\bin\Debug\net10.0\LinqFaroShuffle.deps.json
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\bin\Debug\net10.0\LinqFaroShuffle.runtimeconfig.json
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\bin\Debug\net10.0\LinqFaroShuffle.dll
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\bin\Debug\net10.0\LinqFaroShuffle.pdb
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\LinqFaroShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\LinqFaroShuffle.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\LinqFaroShuffle.AssemblyInfo.cs
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\LinqFaroShuffle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\LinqFaroShuffle.dll
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\refint\LinqFaroShuffle.dll
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\LinqFaroShuffle.pdb
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\LinqFaroShuffle.genruntimeconfig.cache
+C:\Users\Asus\source\repos\LinqFaroShuffle\LinqFaroShuffle\obj\Debug\net10.0\ref\LinqFaroShuffle.dll

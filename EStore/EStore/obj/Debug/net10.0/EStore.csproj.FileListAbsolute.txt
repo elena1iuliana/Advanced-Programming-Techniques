@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\EStore\EStore\bin\Debug\net10.0\EStore.exe
+C:\Users\Asus\source\repos\EStore\EStore\bin\Debug\net10.0\EStore.deps.json
+C:\Users\Asus\source\repos\EStore\EStore\bin\Debug\net10.0\EStore.runtimeconfig.json
+C:\Users\Asus\source\repos\EStore\EStore\bin\Debug\net10.0\EStore.dll
+C:\Users\Asus\source\repos\EStore\EStore\bin\Debug\net10.0\EStore.pdb
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\EStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\EStore.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\EStore.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\EStore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\EStore.dll
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\refint\EStore.dll
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\EStore.pdb
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\EStore.genruntimeconfig.cache
+C:\Users\Asus\source\repos\EStore\EStore\obj\Debug\net10.0\ref\EStore.dll

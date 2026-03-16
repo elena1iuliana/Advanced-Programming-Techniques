@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\bin\Debug\net10.0\LibraryTracker.exe
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\bin\Debug\net10.0\LibraryTracker.deps.json
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\bin\Debug\net10.0\LibraryTracker.runtimeconfig.json
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\bin\Debug\net10.0\LibraryTracker.dll
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\bin\Debug\net10.0\LibraryTracker.pdb
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\LibraryTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\LibraryTracker.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\LibraryTracker.AssemblyInfo.cs
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\LibraryTracker.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\LibraryTracker.dll
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\refint\LibraryTracker.dll
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\LibraryTracker.pdb
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\LibraryTracker.genruntimeconfig.cache
+C:\Users\Asus\source\repos\LibraryTracker\LibraryTracker\obj\Debug\net10.0\ref\LibraryTracker.dll
