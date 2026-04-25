@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\EStore1\EStore1\obj\Debug\net10.0\EStore1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\EStore1\EStore1\obj\Debug\net10.0\EStore1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\EStore1\EStore1\obj\Debug\net10.0\EStore1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\EStore1\EStore1\obj\Debug\net10.0\EStore1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EStore1\EStore1\obj\Debug\net10.0\EStore1.csproj.AssemblyReference.cache
